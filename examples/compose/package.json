@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "ava": "^0.25.0",
-    "aws-sdk": "^2.224.1",
+    "aws-sdk": "^2.253.1",
     "@lifeomic/lambda-tools": "file:../../"
   }
 }
